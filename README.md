@@ -1,1 +1,3 @@
-# git_training2
+# Hello-world
+This is my second repository
+I am looking forward to learning more.
